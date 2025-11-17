@@ -1,16 +1,9 @@
 
-Here is a **clean, simple, well-structured README.md** for your **Plant Disease Detection** project.
-You can copy–paste it directly into your GitHub repo.
-
----
-
-# 🌿 Plant Disease Detection Using Deep Learning
+ 🌿 Plant Disease Detection Using Deep Learning
 
 This project is a **Plant Disease Detection System** that uses a trained deep learning model to identify plant leaf diseases from images. The system helps farmers, researchers, and gardeners diagnose diseases early and take preventive action.
 
----
-
-## 🚀 **Features**
+🚀 **Features**
 
 * 📸 Upload plant leaf images for instant disease prediction
 * 🤖 Deep Learning model trained on thousands of plant images
@@ -19,9 +12,7 @@ This project is a **Plant Disease Detection System** that uses a trained deep le
 * 🛠️ Separate training script to retrain the model
 * 🔎 Supports multiple plant species & disease types
 
----
-
-## 🧠 **Tech Stack**
+ 🧠 **Tech Stack**
 
 * **Python**
 * **TensorFlow / Keras** (Model Training)
@@ -30,9 +21,7 @@ This project is a **Plant Disease Detection System** that uses a trained deep le
 * **NumPy**, **Matplotlib**
 * **JSON** for class labels
 
----
-
-## 📂 **Project Structure**
+ 📂 **Project Structure**
 
 ```
 plant-disease-detection/
@@ -47,9 +36,7 @@ plant-disease-detection/
 └── README.md                   # Project documentation
 ```
 
----
-
-## 🏗️ **How It Works**
+ 🏗️ **How It Works**
 
 1. User uploads an image of a plant leaf
 2. The image is processed and resized
@@ -57,9 +44,7 @@ plant-disease-detection/
 4. Results displayed with accuracy scores
 5. Optional: Preventive measures can be shown
 
----
-
-## ▶️ **How to Run**
+ ▶️ **How to Run**
 
 ### **1️⃣ Install Dependencies**
 
@@ -89,46 +74,22 @@ To retrain the model:
 python train_model.py
 ```
 
-Make sure your dataset is organized into folders by class labels.
-
----
-
-## 📊 **Dataset**
+ 📊 **Dataset**
 
 * Dataset consists of multiple plant species (tomato, potato, etc.)
 * Contains healthy + various disease classes
 * Images preprocessed and augmented for better accuracy
 
----
-
-## 🟢 **Output**
+ 🟢 **Output**
 
 * Predicted disease name
 * Confidence percentage
 * Tips or preventive measures (optional)
 
----
-
-## 📌 **Future Enhancements**
+ 📌 **Future Enhancements**
 
 * 📱 Mobile app version
 * 🎥 Real-time detection using phone camera
 * 🌍 Support for more plant species
 * 🧑‍🌾 Provide treatment suggestions
 
----
-
-## 🙌 **Author**
-
-**Prithika S**
-📧 *[Your Email]*
-📘 GitHub: *S-PRITHIKA*
-
----
-
-If you want, I can also add:
-✅ Images/screenshots
-✅ Badges (Python, TensorFlow, etc.)
-✅ License section
-✅ Installation GIF
-Just tell me!
