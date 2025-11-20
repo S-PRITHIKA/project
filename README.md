@@ -64,23 +64,13 @@ streamlit run streamlit_app.py
 python app.py
 ```
 
----
-
-Model Training
-
-To retrain the model:
-
-```sh
-python train_model.py
-```
-
-  Dataset
+ Dataset
 
 * Dataset consists of multiple plant species 
 * Contains healthy + various disease classes
 * Images preprocessed and augmented for better accuracy
 
-  Output
+Output
 
 * Predicted disease name
 * Confidence percentage
