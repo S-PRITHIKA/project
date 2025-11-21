@@ -75,11 +75,3 @@ Output
 * Predicted disease name
 * Confidence percentage
 
-
-  Future Enhancements
-
-*  Mobile app version
-*  Real-time detection using phone camera
-*  Support for more plant species
-*  Provide treatment suggestions
-
