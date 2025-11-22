@@ -1,5 +1,5 @@
 
- 🌿 Plant Disease Detection Using Deep Learning
+ Plant Disease Detection Using Deep Learning
 
 This project is a Plant Disease Detection System that uses a trained deep learning model to identify plant leaf diseases from images. The system helps farmers, researchers, and gardeners diagnose diseases early and take preventive action.
 
@@ -46,19 +46,19 @@ plant-disease-detection/
 
   How to Run
 
-1️⃣ Install Dependencies
+1️) Install Dependencies
 
 ```sh
 pip install -r requirements.txt
 ```
 
-2️⃣ Run Streamlit App
+2️) Run Streamlit App
 
 ```sh
 streamlit run streamlit_app.py
 ```
 
-3️⃣ Run Flask App 
+3️) Run Flask App 
 
 ```sh
 python app.py
