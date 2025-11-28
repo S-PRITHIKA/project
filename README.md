@@ -3,17 +3,17 @@
 This project is an AI-powered Plant Disease Detection System that identifies diseases from plant leaf images using a deep learning model.
 It helps farmers, students, researchers, and gardeners detect diseases early and take preventive action.
 
- 🚀 Features
+  Features
 
-✔ Upload leaf images for instant disease prediction
-✔ Predicts disease name + confidence score
-✔ User-friendly Streamlit web app
-✔ Separate training script to retrain with any dataset
-✔ Supports multiple plant species & disease types
-✔ Built using Convolutional Neural Networks (CNN)
-✔ Works offline once model is trained
+* Upload leaf images for instant disease prediction
+* Predicts disease name + confidence score
+* User-friendly Streamlit web app
+* Separate training script to retrain with any dataset
+* Supports multiple plant species & disease types
+* Built using Convolutional Neural Networks (CNN)
+* Works offline once model is trained
 
- 🧠 Tech Stack
+  Tech Stack
 
 Backend & AI
 
@@ -32,7 +32,7 @@ Storage
 
 * JSON (class labels)
 
- 📂 Project Structure
+  Project Structure
 
 ```
 plant-disease-detection/
@@ -51,7 +51,7 @@ plant-disease-detection/
 └── README.md                   # Project documentation
 ```
 
- 🔍 How It Works
+  How It Works
 
 1. User uploads an image of a plant leaf
 2. Image is preprocessed (resize → normalize → reshape)
@@ -62,7 +62,7 @@ plant-disease-detection/
    * Confidence percentage
 
 
- ▶️ How to Run the Project
+  How to Run the Project
 
 1) Install dependencies
 
@@ -82,7 +82,7 @@ streamlit run streamlit_app.py
 python app.py
 ```
 
- 📊 Dataset
+  Dataset
 
 * Includes multiple plant species
 * Contains healthy and diseased leaf images
@@ -90,7 +90,7 @@ python app.py
 * Compatible with PlantVillage dataset format
 
 
- 📌 Future Improvements
+  Future Improvements
 
 * Add voice-based disease description
 * Provide real-time prevention suggestions
