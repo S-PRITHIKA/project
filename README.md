@@ -37,24 +37,24 @@ Storage
 ```
 plant-disease-detection/
 │
-├── train_model.py              # Model training script
-├── streamlit_app.py            # Streamlit front-end app
-├── app.py                      # Optional Flask backend
+├── train_model.py             
+├── streamlit_app.py           
+├── app.py                    
 │
-├── plant_disease_model.h5      # Trained deep learning model
-├── class_names.json            # Class labels for prediction
+├── plant_disease_model.h5    
+├── class_names.json            
 │
-├── templates/                  # HTML files (used only for Flask)
-├── dataset/                    # Training dataset (not included)
+├── templates/                  
+├── dataset/                   
 │
-├── requirements.txt            # Dependencies
-└── README.md                   # Project documentation
+├── requirements.txt           
+└── README.md                 
 ```
 
   How It Works
 
 1. User uploads an image of a plant leaf
-2. Image is preprocessed (resize → normalize → reshape)
+2. Image is preprocessed 
 3. Model predicts disease class
 4. Outputs:
 
