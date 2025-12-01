@@ -1,8 +1,2 @@
-plant_disease_model.h5/
-venv/
-*.zip
-*.rar
-*.7z
-__pycache__/
-*.pyc
-*.h5
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
