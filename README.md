@@ -18,7 +18,7 @@ It helps farmers, students, researchers, and gardeners detect diseases early and
 Backend & AI
 
 * Python
-* TensorFlow / Keras
+* TensorFlow 
 * NumPy
 * OpenCV
 * Matplotlib
@@ -26,7 +26,7 @@ Backend & AI
 Frontend / UI
 
 * Streamlit
-* HTML templates (optional for Flask)
+* HTML templates
 
 Storage
 
@@ -57,7 +57,6 @@ plant-disease-detection/
 2. Image is preprocessed 
 3. Model predicts disease class
 4. Outputs:
-
    * Disease name
    * Confidence percentage
 
