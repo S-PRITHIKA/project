@@ -28,9 +28,9 @@ Frontend / UI
 * Streamlit
 * HTML templates
 
-Storage
+Storage 
 
-* JSON (class labels)
+Json files
 
   Project Structure
 
