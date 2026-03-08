@@ -8,7 +8,7 @@ This system enables early disease detection, helping farmers, researchers, stude
 
 The application provides real-time predictions through a user-friendly web interface and can operate offline once the model is trained.
 
- 🚀 Key Features
+  Key Features
 
 *  Upload plant leaf images for instant disease prediction
 *  Predicts disease class with confidence score
@@ -55,6 +55,7 @@ plant-disease-detection/
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
 ```
+
 ⚙️ How It Works
 
 1. The user uploads an image of a plant leaf.
@@ -67,19 +68,18 @@ plant-disease-detection/
 
  How to Run the Project
 
-### 1️⃣ Install Dependencies
+1️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2️⃣ Run the Streamlit Web App
+2️⃣ Run the Streamlit Web App
 
 ```bash
 streamlit run streamlit_app.py
 ```
-
-### 3️⃣ Run the Flask App
+3️⃣ Run the Flask App
 
 ```bash
 python app.py
