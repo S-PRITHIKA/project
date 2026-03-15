@@ -85,15 +85,14 @@ streamlit run streamlit_app.py
 python app.py
 ```
 
-
-  Dataset
+Dataset
 
 * Contains healthy and diseased leaf images
 * Supports multiple plant species
 * Preprocessed and augmented for improved accuracy
 * Compatible with the PlantVillage dataset format
 
-  Future Enhancements
+Future Enhancements
 
 *  Voice-based disease explanation system
 *  Real-time prevention and treatment recommendations
