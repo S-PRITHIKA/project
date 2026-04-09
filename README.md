@@ -66,9 +66,6 @@ plant-disease-detection/
    *  Predicted disease name
    *  Confidence percentage
 
-
-```
-
 Dataset
 
 * Contains healthy and diseased leaf images
