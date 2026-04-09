@@ -66,23 +66,7 @@ plant-disease-detection/
    *  Predicted disease name
    *  Confidence percentage
 
- How to Run the Project
 
-1️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-2️⃣ Run the Streamlit Web App
-
-```bash
-streamlit run streamlit_app.py
-```
-3️⃣ Run the Flask App
-
-```bash
-python app.py
 ```
 
 Dataset
