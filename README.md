@@ -33,9 +33,6 @@ The application provides real-time predictions through a user-friendly web inter
 * Streamlit
 * HTML Templates
 
- 🔹 Storage
-
-* JSON files (for class labels and metadata)
 
  📂 Project Structure
 
